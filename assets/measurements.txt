@@ -1,0 +1,8 @@
+logo - 222x115
+headerNav - 722x115
+body div 1 - 1115x322
+body div 2 - 1115x406
+socialMedia - 300x115
+footerNav - 223x115
+
+(30px in-between header/body/footer)
